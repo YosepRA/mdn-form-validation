@@ -1,0 +1,23 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "MDN Form Validation Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/mdn-form-validation.git"
+  },
+  "author": "YosepRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosepRA/mdn-form-validation/issues"
+  },
+  "homepage": "https://github.com/YosepRA/mdn-form-validation#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
+}
